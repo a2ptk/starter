@@ -5,6 +5,7 @@ published: true
 splash: "http://placehold.it/1600x500"
 tags: 
   - "null"
+  - new tag
 title: This is the Title
 ---
 
