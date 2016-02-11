@@ -41,6 +41,11 @@ prose:
               value: "pears"
             - name: "Mangos"
               value: "mangos"
+      - name: "date"
+        field:
+       	  element: "hidden"
+          label: "date"
+          value: "CURRENT_DATETIME"
     _posts/static:
       - name: "layout"
         field:
