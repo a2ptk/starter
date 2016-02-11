@@ -43,9 +43,9 @@ prose:
               value: "mangos"
       - name: "date"
         field:
-       	  element: "hidden"
+       	  element: "text"
           label: "date"
-          value: "CURRENT_DATETIME"
+          value: CURRENT_DATETIME
     _posts/static:
       - name: "layout"
         field:
